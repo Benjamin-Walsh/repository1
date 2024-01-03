@@ -207,3 +207,10 @@ hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+
+#circle-cover-bg {
+    background: src="../../images/reasons-image.webp" no-repeat center center/cover;
+    width: 90vw;
+    height: 90vw;
+    margin: 20px;
+}
